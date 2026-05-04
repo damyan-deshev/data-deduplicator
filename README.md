@@ -4,7 +4,7 @@
 
 This repository demonstrates a production-grade approach to cleaning noisy, real-world datasets.
 
-Although I built it to prevent a diplomatic incident involving Balkan sausages (read the [article](https://www.linkedin.com/in/damyandeschev/) for the backstory), this is **NOT** just a recipe tool.
+Although I built it to prevent a diplomatic incident involving Balkan sausages (read the [article](https://www.linkedin.com/pulse/case-study-vector-search-failures-food-database-how-i-damyan-deshev-egtef/) for the backstory), this is **NOT** just a recipe tool.
 
 The core problem I solve here is: **How to deduplicate semantically similar records without destroying meaningful variation?**
 
